@@ -11,10 +11,6 @@ function AboutProject() {
         <Logo/>
         <h1>Sudoku Savvy</h1>
         <div className="code-links" >
-          <a href="https://github.com/ypavanr/Sudoku-Showdown-Project.git" target="_blank" rel="noopener noreferrer">
-            <img src={Git} alt="GitHub" className="icon"/>
-            <u>Link to the Source Code</u>
-          </a>
           
           <div className="email">
             <i><img src={Mail} alt="Mail" className="icon" />
