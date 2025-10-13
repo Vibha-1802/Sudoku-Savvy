@@ -2,6 +2,33 @@
 
 A real-time multiplayer Sudoku platform where you can **compete, collaborate, or play solo**.
 
+---
+
+## 🎬 Gameplay Showcase
+
+Here’s a quick look at how each mode works:
+
+### 🧍 Solo Mode
+*Wanna brush up your skills alone? We got ya!*
+
+https://github.com/user-attachments/assets/1849fad1-1ecd-4232-8d57-69970d589dc5
+
+
+
+### 🤝 Cooperative Mode
+*Join forces and solve the Grid as one!*
+
+https://github.com/user-attachments/assets/aceda595-144e-4208-be48-ddd8b1e3dbe4
+
+
+
+### ⚔️ Competitive Mode
+*To see who can conquer the Grid!*
+
+https://github.com/user-attachments/assets/fc269e56-b31a-4378-bec7-82ff87146c3d
+
+
+
 ## 📌 Motivation
 
 What began as a friendly competition between us quickly turned into a full-fledged project. We used to challenge each other to solve Sudoku puzzles faster, but couldn’t find any apps that let us compete on the same puzzle in real-time. Most platforms focused only on solo play, and none offered the **multiplayer experience** we wanted.
