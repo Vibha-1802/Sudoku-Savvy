@@ -18,7 +18,7 @@ function About() {
       <div className="developer dev-violet">
         <div className="developer-header">
           <img src={User} alt="User Icon" className="user-icon" />
-          <h2>Noisyy</h2>
+          <h2>Noisy</h2>
         </div>
 
         <p>B.E-ISE 2023-2027</p>
@@ -29,7 +29,7 @@ function About() {
       <div className="developer dev-violet">
         <div className="developer-header">
           <img src={User} alt="User Icon" className="user-icon" />
-          <h2>Reddyy</h2>
+          <h2>Kaze</h2>
         </div>
 
         <p>B.E-ISE 2023-2027</p>
