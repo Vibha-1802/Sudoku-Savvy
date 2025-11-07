@@ -11,22 +11,19 @@ Here’s a quick look at how each mode works:
 ### 🧍 Solo Mode
 *Wanna brush up your skills alone? We got ya!*
 
-https://github.com/user-attachments/assets/1849fad1-1ecd-4232-8d57-69970d589dc5
-
+https://github.com/user-attachments/assets/d6ab0f5b-7c1c-4b2b-b1e6-4de42c81e743
 
 
 ### 🤝 Cooperative Mode
 *Join forces and solve the Grid as one!*
 
-https://github.com/user-attachments/assets/aceda595-144e-4208-be48-ddd8b1e3dbe4
-
+https://github.com/user-attachments/assets/922cde72-9714-461f-9b67-4fbe9cd9e5bb
 
 
 ### ⚔️ Competitive Mode
 *To see who can conquer the Grid!*
 
-https://github.com/user-attachments/assets/fc269e56-b31a-4378-bec7-82ff87146c3d
-
+https://github.com/user-attachments/assets/b039cba7-40db-417e-b080-61e82038df77
 
 
 ## 📌 Motivation
